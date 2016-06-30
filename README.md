@@ -1,3 +1,2 @@
-The OpenShift `nodejs` cartridge documentation can be found at:
+index.html = 3W.html
 
-http://openshift.github.io/documentation/oo_cartridge_guide.html#nodejs
