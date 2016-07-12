@@ -1,6 +1,5 @@
-## NodeJS Chat (MIT License)
-
-A node js chat app using web sockets (socket.io)
+Assignment 1 :
+public folder and view folder belong to these.
 
 ## Run Locally
 
@@ -52,3 +51,8 @@ Open the app (same as opening it in the browser):
     heroku open
 
 And your app should be up on Heroku.
+
+
+Assignment 2 :
+WWW.html/3W.html = homepage
+download all items excluding items with tag "these for assignment 1"
