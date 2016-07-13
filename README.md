@@ -53,6 +53,9 @@ Open the app (same as opening it in the browser):
 And your app should be up on Heroku.
 
 
-Assignment 2 :
+Assignment 2 (Undone) :
+
+
 WWW.html/3W.html = homepage
 download all items excluding items with tag "these for assignment 1"
+no installation needed
